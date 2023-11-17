@@ -1,0 +1,19 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: brown;
+    border: 1px solid firebrick;
+}
+button{
+    background-color: rgb(230, 162, 162);
+    border: 2px solid blanchedalmond;
+}
